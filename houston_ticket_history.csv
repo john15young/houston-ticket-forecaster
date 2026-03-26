@@ -1,0 +1,143 @@
+timestamp,event_id,event_name,lowest_price,listings,days_out
+2026-03-21 22:26,17520428,NCAA MBBT South Reg - All Sessions (3/26 & 3/28),,,4
+2026-03-21 22:26,17521819,Houston Rodeo - Cody Johnson,,,0
+2026-03-21 22:26,17693258,Angels at Astros,,,4
+2026-03-22 04:55,17520428,NCAA MBBT South Reg - All Sessions (3/26 & 3/28),,,3
+2026-03-22 04:55,17521819,Houston Rodeo - Cody Johnson,,,0
+2026-03-22 04:55,17693258,Angels at Astros,,,4
+2026-03-22 05:06,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 05:06,17521819,Houston Rodeo - Cody Johnson,,,0
+2026-03-22 05:07,17693258,Angels at Astros,,,4
+2026-03-22 07:37,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 07:37,17521819,Houston Rodeo - Cody Johnson,,,0
+2026-03-22 07:37,17693258,Angels at Astros,,,4
+2026-03-22 08:45,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 08:45,17521819,Houston Rodeo - Cody Johnson,,,0
+2026-03-22 08:45,17693258,Angels at Astros,,,4
+2026-03-22 13:05,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 13:05,17521819,Houston Rodeo - Cody Johnson,,,0
+2026-03-22 13:05,17693258,Angels at Astros,,,4
+2026-03-22 14:06,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 14:06,17521819,Houston Rodeo - Cody Johnson,,,0
+2026-03-22 14:06,17693258,Angels at Astros,,,4
+2026-03-22 16:26,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 16:26,17521819,Houston Rodeo - Cody Johnson,,,0
+2026-03-22 16:26,17693258,Angels at Astros,,,3
+2026-03-22 18:47,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 18:47,17521819,Houston Rodeo - Cody Johnson,,,-1
+2026-03-22 18:47,17693258,Angels at Astros,,,3
+2026-03-22 18:50,17521819,Houston Rodeo - Cody Johnson,82.0,12,0
+2026-03-22 18:50,17520429,NCAA MBBT Session 1,321.0,450,4
+2026-03-22 18:50,17693258,Angels at Astros,74.0,1200,4
+2026-03-22 18:49,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 18:49,17521819,Houston Rodeo - Cody Johnson,,,-1
+2026-03-22 18:49,17693258,Angels at Astros,,,3
+2026-03-22 18:50,17521819,Houston Rodeo - Cody Johnson,82.0,12,0
+2026-03-22 18:50,17520429,NCAA MBBT Session 1,321.0,450,4
+2026-03-22 18:50,17693258,Angels at Astros,74.0,1200,4
+2026-03-22 19:04,17693258,Angels at Astros,,,3
+2026-03-22 19:04,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 19:06,17693258,Angels at Astros,,,3
+2026-03-22 19:06,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 19:06,17669387,Knicks at Rockets,,,8
+2026-03-22 19:06,18020274,Peso Pluma with Tito Double P,,,11
+2026-03-22 19:14,17693258,Angels at Astros,,,3
+2026-03-22 19:14,17520429,"NCAA MBBT South Reg - Session 1 (#2 Houston vs #3 Illinois, #4 Nebraska vs TBD)",,,3
+2026-03-22 19:14,17669387,Knicks at Rockets,,,8
+2026-03-22 19:14,18020274,Peso Pluma with Tito Double P,,,11
+2026-03-23 05:42,17693258,Angels at Astros,,,3
+2026-03-23 05:42,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",,,3
+2026-03-23 05:42,17669387,Knicks at Rockets,,,8
+2026-03-23 05:42,18020274,Peso Pluma with Tito Double P,,,10
+2026-03-23 05:45,17693258,Angels at Astros,,,3
+2026-03-23 05:45,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",,,3
+2026-03-23 05:45,17669387,Knicks at Rockets,,,8
+2026-03-23 05:45,18020274,Peso Pluma with Tito Double P,,,10
+2026-03-23 05:47,17693258,Angels at Astros,,,3
+2026-03-23 05:47,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",,,3
+2026-03-23 05:47,17669387,Knicks at Rockets,,,8
+2026-03-23 05:47,18020274,Peso Pluma with Tito Double P,,,10
+2026-03-23 05:49,17693258,Angels at Astros,,,3
+2026-03-23 05:49,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",,,3
+2026-03-23 05:49,17669387,Knicks at Rockets,,,8
+2026-03-23 05:49,18020274,Peso Pluma with Tito Double P,,,10
+2026-03-23 05:50,17693258,Angels at Astros,,,3
+2026-03-23 05:50,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",,,3
+2026-03-23 05:50,17669387,Knicks at Rockets,,,8
+2026-03-23 05:50,18020274,Peso Pluma with Tito Double P,,,10
+2026-03-23 05:57:41,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",0
+2026-03-23 05:57:41,17669387,Knicks at Rockets,0
+2026-03-23 05:57:41,17693258,Angels at Astros,0
+2026-03-23 05:57:41,18020274,Peso Pluma with Tito Double P,0
+2026-03-23 05:58:21,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",0
+2026-03-23 05:58:21,17669387,Knicks at Rockets,0
+2026-03-23 05:58:21,17693258,Angels at Astros,0
+2026-03-23 05:58:21,18020274,Peso Pluma with Tito Double P,0
+2026-03-23 06:00:33,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",0
+2026-03-23 06:00:33,17669387,Knicks at Rockets,0
+2026-03-23 06:00:33,17693258,Angels at Astros,0
+2026-03-23 06:00:33,18020274,Peso Pluma with Tito Double P,0
+2026-03-23 11:25:57,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",0
+2026-03-23 11:25:57,17669387,Knicks at Rockets,0
+2026-03-23 11:25:57,17693258,Angels at Astros,0
+2026-03-23 11:25:57,18020274,Peso Pluma with Tito Double P,0
+2026-03-23 11:45:00,17520429,NCAA South Regional,228
+2026-03-23 11:45:00,17669387,Knicks at Rockets,24
+2026-03-23 11:45:00,17693258,Angels at Astros,73
+2026-03-23 11:45:00,18020274,Peso Pluma,168
+2026-03-23 12:49:08,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",0
+2026-03-23 12:49:08,17669387,Knicks at Rockets,0
+2026-03-23 12:49:08,17693258,Angels at Astros,0
+2026-03-23 12:49:08,18020274,Peso Pluma with Tito Double P,0
+2026-03-23 12:52:50,17520429,"NCAA MBBT South Reg - Session 1 (#4 Nebraska vs #9 Iowa, #2 Houston vs #3 Illinois)",0
+2026-03-23 12:52:50,17669387,Knicks at Rockets,0
+2026-03-23 12:52:50,17693258,Angels at Astros,0
+2026-03-23 12:52:50,18020274,Peso Pluma with Tito Double P,0
+2026-03-23 12:54:23,17520429,ncaa-tournament-south-regional,228
+2026-03-23 12:54:23,17669387,new-york-knicks-at-houston-rockets-tickets,24
+2026-03-23 12:54:23,17693258,los-angeles-angels-at-houston-astros-tickets,73
+2026-03-23 12:54:23,18020274,peso-pluma-tickets,168
+2026-03-23 12:55:39,17520429,ncaa-tournament-south-regional,228
+2026-03-23 12:55:39,17669387,new-york-knicks-at-houston-rockets-tickets,24
+2026-03-23 12:55:39,17693258,los-angeles-angels-at-houston-astros-tickets,73
+2026-03-23 12:55:39,18020274,peso-pluma-tickets,168
+2026-03-23 12:56:22,17520429,NCAA South Regional,228
+2026-03-23 12:56:22,17669387,Knicks at Rockets,24
+2026-03-23 12:56:22,17693258,Angels at Astros,73
+2026-03-23 12:56:22,18020274,Peso Pluma,168
+2026-03-23 13:00:48,17520429,NCAA South Regional,228
+2026-03-23 13:00:48,17669387,Knicks at Rockets,24
+2026-03-23 13:00:48,17693258,Angels at Astros,73
+2026-03-23 13:00:48,18020274,Peso Pluma,168
+2026-03-23 18:06:16,17520429,NCAA South Regional,228
+2026-03-23 18:06:16,17669387,Knicks at Rockets,24
+2026-03-23 18:06:16,17693258,Angels at Astros,73
+2026-03-23 18:06:16,18020274,Peso Pluma,168
+2026-03-24 09:01:30,17520429,NCAA South Regional,228
+2026-03-24 09:01:30,17669387,Knicks at Rockets,24
+2026-03-24 09:01:30,17693258,Angels at Astros,73
+2026-03-24 09:01:30,18020274,Peso Pluma,168
+2026-03-24 09:37:02,17520429,NCAA South Regional,228
+2026-03-24 09:37:02,17669387,Knicks at Rockets,24
+2026-03-24 09:37:02,17693258,Angels at Astros,73
+2026-03-24 09:37:02,18020274,Peso Pluma,168
+2026-03-24 20:04:46,17520429,NCAA South Regional,228
+2026-03-24 20:04:46,17669387,Knicks at Rockets,24
+2026-03-24 20:04:46,17693258,Angels at Astros,73
+2026-03-24 20:04:46,18020274,Peso Pluma,168
+2026-03-25 10:09:54,17520429,NCAA South Regional,228
+2026-03-25 10:09:54,17669387,Knicks at Rockets,24
+2026-03-25 10:09:54,17693258,Angels at Astros,73
+2026-03-25 10:09:54,18020274,Peso Pluma,168
+2026-03-25 18:45:16,17520429,NCAA South Regional,228
+2026-03-25 18:45:16,17669387,Knicks at Rockets,24
+2026-03-25 18:45:16,17693258,Angels at Astros,73
+2026-03-25 18:45:16,18020274,Peso Pluma,168
+2026-03-26 08:03:36,17520429,NCAA South Regional,228
+2026-03-26 08:03:36,17669387,Knicks at Rockets,24
+2026-03-26 08:03:36,17693258,Angels at Astros,73
+2026-03-26 08:03:36,18020274,Peso Pluma,168
+2026-03-26 10:37:49,17520429,NCAA South Regional,228
+2026-03-26 10:37:49,17669387,Knicks at Rockets,24
+2026-03-26 10:37:49,17693258,Angels at Astros,73
+2026-03-26 10:37:49,18020274,Peso Pluma,168
